@@ -1,5 +1,7 @@
 #! /bin/bash
 
+set -euo pipefail
+
 DB_USER="${DB_USER}"
 DB_PASSWORD="${DB_PASSWORD}"
 
